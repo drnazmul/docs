@@ -2,7 +2,7 @@
 title: "Hugo tutorial"
 ---
 
-hugo new site my-site -f yml
+`hugo new site my-site -f yml`
 
 cd my-site
 
